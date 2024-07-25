@@ -1,0 +1,96 @@
+.title{
+    float:none;
+    text-align: center;
+    margin-left: 0px;
+}
+
+.bag-nav{
+    float:none;
+    text-align: center;
+}
+.bag-nav-row{
+    margin-right: 0px;
+}
+.bag-nav-row li a{
+    
+    padding: 10px;
+    width:30rem;
+}
+.nav-bar{
+    height: fit-content;
+}
+
+
+.hotelimg{
+    display: none;
+}
+.hotel-disc{
+
+    width: 100%;
+}
+.hotel-disc h3{
+    margin-bottom: 2rem;
+    margin-top:2rem;
+}
+.aside-bar{
+    height:max-content;
+    overflow: auto;
+    clear:both;
+
+}
+.ul{
+    height:100%;
+}
+.fli{
+    float:none;
+    padding:1rem;
+    width:100%;
+    padding: 3rem;
+    height:fit-content;
+}
+.sli{
+    float: none;
+    width:100%;
+    padding: 3rem;
+    height:fit-content;
+}
+.thli{
+    float:none;
+    width:100%;
+    padding: 3rem;
+    height:fit-content;
+}
+/* ////////////////////about/////// */
+.comment{
+    margin:10px 10%;
+
+}
+.header-content{
+    float:none;
+    width: 100%;
+    height:100%;
+    
+}
+.hotel-img2{
+    margin-top: 20px;
+    float:none;
+    border-radius:20px;
+    width:100%;
+    
+}
+.comment p{
+    padding: 2rem;
+    font-size: .80rem;
+}
+.comment img{
+    padding-top:2rem;
+    width:30%;
+    height:30%;
+    border-radius:20px;
+    margin-bottom: 2rem;
+}
+.aside-content h1{
+    padding-top: 2rem;
+    padding-bottom:1.1rem ;
+}
+?

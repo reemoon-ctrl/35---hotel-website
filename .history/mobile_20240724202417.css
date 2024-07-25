@@ -1,0 +1,50 @@
+.title{
+    float:none;
+    text-align: center;
+    margin-left: 0px;
+}
+
+.bag-nav{
+    float:none;
+    text-align: center;
+}
+.bag-nav-row{
+    margin-right: 0px;
+}
+.bag-nav-row li a{
+    
+    padding: 10px;
+    width:30rem;
+}
+.nav-bar{
+    height: fit-content;
+}
+
+
+.hotelimg{
+    display: none;
+}
+.hotel-disc{
+
+    width: 100%;
+}
+.hotel-disc h3{
+    margin-bottom: 2rem;
+    margin-top:2rem;
+}
+.ul{
+    height:
+}
+.fli{
+    float:none;
+    padding:1rem;
+    width:100%;
+}
+.sli{
+    float: none;
+    width:100%;
+}
+.thli{
+    float:none;
+    width:100%;
+}

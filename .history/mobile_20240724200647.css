@@ -1,0 +1,22 @@
+.title{
+    float:none;
+    text-align: center;
+    margin-left: 0px;
+}
+
+.bag-nav{
+    float:none;
+    text-align: center;
+}
+.bag-nav-row{
+    margin-right: 0px;
+}
+.bag-nav-row li a{
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    color: #fff;
+}
+.nav-bar{
+    height: fit-content;
+}

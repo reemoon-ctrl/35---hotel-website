@@ -1,0 +1,29 @@
+.title{
+    float:none;
+    text-align: center;
+    margin-left: 0px;
+}
+
+.bag-nav{
+    float:none;
+    text-align: center;
+}
+.bag-nav-row{
+    margin-right: 0px;
+}
+.bag-nav-row li a{
+    
+    padding: 10px;
+    width:30rem;
+}
+.nav-bar{
+    height: fit-content;
+}
+
+
+.hotelimg{
+    display: none;
+}
+.hotel-disc{
+    width
+}
